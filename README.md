@@ -29,15 +29,20 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/mahendrakale4/User-Card-React.git
 
+
 2. Navigate to the project directory:
   ```bash
-   cd usercard-react-app 
+   cd usercard-react-app
+```
+
 
 3. Install dependencies:
   ```bash
   npm install
+```
+
 
 4. Run the application:
   ```bash
     npm start
-
+```
